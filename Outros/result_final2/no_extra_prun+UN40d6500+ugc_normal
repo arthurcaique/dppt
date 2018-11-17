@@ -1,0 +1,8 @@
+Léxico: OPLex
+Avaliacao{recall=0.7947019867549668, precision=0.3409090909090909, f_measure=0.47713717693836977}
+Léxico: LIWC_PTBR
+Avaliacao{recall=0.5298013245033113, precision=0.37735849056603776, f_measure=0.440771349862259}
+Léxico: SentiLex_Flex
+Avaliacao{recall=0.4966887417218543, precision=0.38860103626943004, f_measure=0.436046511627907}
+Léxico: SentiLex_Lem
+Avaliacao{recall=0.4900662251655629, precision=0.3894736842105263, f_measure=0.4340175953079179}

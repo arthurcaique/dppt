@@ -1,0 +1,200 @@
+Léxico: OPLex	p-support: 0.1	Freq:2
+Avaliacao{recall=0.5900900900900901, precision=0.3521505376344086, f_measure=0.4410774410774411}
+Léxico: OPLex	p-support: 0.1	Freq:4
+Avaliacao{recall=0.5225225225225225, precision=0.34421364985163205, f_measure=0.4150268336314848}
+Léxico: OPLex	p-support: 0.1	Freq:6
+Avaliacao{recall=0.5180180180180181, precision=0.35384615384615387, f_measure=0.42047531992687387}
+Léxico: OPLex	p-support: 0.1	Freq:8
+Avaliacao{recall=0.5135135135135135, precision=0.3584905660377358, f_measure=0.42222222222222217}
+Léxico: OPLex	p-support: 0.1	Freq:10
+Avaliacao{recall=0.5135135135135135, precision=0.35962145110410093, f_measure=0.4230055658627087}
+Léxico: OPLex	p-support: 0.30000000000000004	Freq:2
+Avaliacao{recall=0.5900900900900901, precision=0.353099730458221, f_measure=0.44182124789207416}
+Léxico: OPLex	p-support: 0.30000000000000004	Freq:4
+Avaliacao{recall=0.5225225225225225, precision=0.34523809523809523, f_measure=0.41577060931899645}
+Léxico: OPLex	p-support: 0.30000000000000004	Freq:6
+Avaliacao{recall=0.5180180180180181, precision=0.3549382716049383, f_measure=0.42124542124542125}
+Léxico: OPLex	p-support: 0.30000000000000004	Freq:8
+Avaliacao{recall=0.5135135135135135, precision=0.35962145110410093, f_measure=0.4230055658627087}
+Léxico: OPLex	p-support: 0.30000000000000004	Freq:10
+Avaliacao{recall=0.5135135135135135, precision=0.36075949367088606, f_measure=0.42379182156133827}
+Léxico: OPLex	p-support: 0.5	Freq:2
+Avaliacao{recall=0.5900900900900901, precision=0.35597826086956524, f_measure=0.44406779661016954}
+Léxico: OPLex	p-support: 0.5	Freq:4
+Avaliacao{recall=0.5225225225225225, precision=0.3483483483483483, f_measure=0.418018018018018}
+Léxico: OPLex	p-support: 0.5	Freq:6
+Avaliacao{recall=0.5180180180180181, precision=0.3582554517133956, f_measure=0.42357274401473305}
+Léxico: OPLex	p-support: 0.5	Freq:8
+Avaliacao{recall=0.5135135135135135, precision=0.3630573248407643, f_measure=0.4253731343283581}
+Léxico: OPLex	p-support: 0.5	Freq:10
+Avaliacao{recall=0.5135135135135135, precision=0.36421725239616615, f_measure=0.4261682242990655}
+Léxico: OPLex	p-support: 0.7	Freq:2
+Avaliacao{recall=0.581081081081081, precision=0.35833333333333334, f_measure=0.443298969072165}
+Léxico: OPLex	p-support: 0.7	Freq:4
+Avaliacao{recall=0.5135135135135135, precision=0.3507692307692308, f_measure=0.4168190127970749}
+Léxico: OPLex	p-support: 0.7	Freq:6
+Avaliacao{recall=0.509009009009009, precision=0.3610223642172524, f_measure=0.42242990654205614}
+Léxico: OPLex	p-support: 0.7	Freq:8
+Avaliacao{recall=0.5, precision=0.3639344262295082, f_measure=0.42125237191650855}
+Léxico: OPLex	p-support: 0.7	Freq:10
+Avaliacao{recall=0.5, precision=0.3651315789473684, f_measure=0.4220532319391635}
+Léxico: OPLex	p-support: 0.8999999999999999	Freq:2
+Avaliacao{recall=0.5315315315315315, precision=0.34402332361516036, f_measure=0.41769911504424784}
+Léxico: OPLex	p-support: 0.8999999999999999	Freq:4
+Avaliacao{recall=0.46396396396396394, precision=0.3344155844155844, f_measure=0.38867924528301884}
+Léxico: OPLex	p-support: 0.8999999999999999	Freq:6
+Avaliacao{recall=0.4594594594594595, precision=0.34459459459459457, f_measure=0.3938223938223938}
+Léxico: OPLex	p-support: 0.8999999999999999	Freq:8
+Avaliacao{recall=0.45045045045045046, precision=0.3472222222222222, f_measure=0.3921568627450981}
+Léxico: OPLex	p-support: 0.8999999999999999	Freq:10
+Avaliacao{recall=0.45045045045045046, precision=0.34843205574912894, f_measure=0.3929273084479371}
+Léxico: LIWC_PTBR	p-support: 0.1	Freq:2
+Avaliacao{recall=0.5720720720720721, precision=0.38368580060422963, f_measure=0.45931283905967457}
+Léxico: LIWC_PTBR	p-support: 0.1	Freq:4
+Avaliacao{recall=0.5045045045045045, precision=0.37333333333333335, f_measure=0.4291187739463602}
+Léxico: LIWC_PTBR	p-support: 0.1	Freq:6
+Avaliacao{recall=0.5045045045045045, precision=0.38620689655172413, f_measure=0.4375}
+Léxico: LIWC_PTBR	p-support: 0.1	Freq:8
+Avaliacao{recall=0.5, precision=0.3908450704225352, f_measure=0.4387351778656126}
+Léxico: LIWC_PTBR	p-support: 0.1	Freq:10
+Avaliacao{recall=0.4954954954954955, precision=0.3900709219858156, f_measure=0.4365079365079365}
+Léxico: LIWC_PTBR	p-support: 0.30000000000000004	Freq:2
+Avaliacao{recall=0.5720720720720721, precision=0.38484848484848483, f_measure=0.4601449275362319}
+Léxico: LIWC_PTBR	p-support: 0.30000000000000004	Freq:4
+Avaliacao{recall=0.5045045045045045, precision=0.3745819397993311, f_measure=0.4299424184261036}
+Léxico: LIWC_PTBR	p-support: 0.30000000000000004	Freq:6
+Avaliacao{recall=0.5045045045045045, precision=0.3875432525951557, f_measure=0.4383561643835617}
+Léxico: LIWC_PTBR	p-support: 0.30000000000000004	Freq:8
+Avaliacao{recall=0.5, precision=0.392226148409894, f_measure=0.4396039603960396}
+Léxico: LIWC_PTBR	p-support: 0.30000000000000004	Freq:10
+Avaliacao{recall=0.4954954954954955, precision=0.3914590747330961, f_measure=0.437375745526839}
+Léxico: LIWC_PTBR	p-support: 0.5	Freq:2
+Avaliacao{recall=0.5720720720720721, precision=0.38837920489296635, f_measure=0.4626593806921676}
+Léxico: LIWC_PTBR	p-support: 0.5	Freq:4
+Avaliacao{recall=0.5045045045045045, precision=0.3783783783783784, f_measure=0.43243243243243246}
+Léxico: LIWC_PTBR	p-support: 0.5	Freq:6
+Avaliacao{recall=0.5045045045045045, precision=0.3916083916083916, f_measure=0.4409448818897637}
+Léxico: LIWC_PTBR	p-support: 0.5	Freq:8
+Avaliacao{recall=0.5, precision=0.3964285714285714, f_measure=0.44223107569721115}
+Léxico: LIWC_PTBR	p-support: 0.5	Freq:10
+Avaliacao{recall=0.4954954954954955, precision=0.39568345323741005, f_measure=0.43999999999999995}
+Léxico: LIWC_PTBR	p-support: 0.7	Freq:2
+Avaliacao{recall=0.5630630630630631, precision=0.3894080996884735, f_measure=0.4604051565377532}
+Léxico: LIWC_PTBR	p-support: 0.7	Freq:4
+Avaliacao{recall=0.4954954954954955, precision=0.3793103448275862, f_measure=0.42968750000000006}
+Léxico: LIWC_PTBR	p-support: 0.7	Freq:6
+Avaliacao{recall=0.4954954954954955, precision=0.39285714285714285, f_measure=0.43824701195219123}
+Léxico: LIWC_PTBR	p-support: 0.7	Freq:8
+Avaliacao{recall=0.4864864864864865, precision=0.3956043956043956, f_measure=0.43636363636363634}
+Léxico: LIWC_PTBR	p-support: 0.7	Freq:10
+Avaliacao{recall=0.481981981981982, precision=0.3948339483394834, f_measure=0.4340770791075051}
+Léxico: LIWC_PTBR	p-support: 0.8999999999999999	Freq:2
+Avaliacao{recall=0.5180180180180181, precision=0.3758169934640523, f_measure=0.4356060606060606}
+Léxico: LIWC_PTBR	p-support: 0.8999999999999999	Freq:4
+Avaliacao{recall=0.45045045045045046, precision=0.36363636363636365, f_measure=0.4024144869215292}
+Léxico: LIWC_PTBR	p-support: 0.8999999999999999	Freq:6
+Avaliacao{recall=0.45045045045045046, precision=0.37735849056603776, f_measure=0.4106776180698153}
+Léxico: LIWC_PTBR	p-support: 0.8999999999999999	Freq:8
+Avaliacao{recall=0.44144144144144143, precision=0.3798449612403101, f_measure=0.4083333333333334}
+Léxico: LIWC_PTBR	p-support: 0.8999999999999999	Freq:10
+Avaliacao{recall=0.4369369369369369, precision=0.37890625, f_measure=0.40585774058577406}
+Léxico: SentiLex_Flex	p-support: 0.1	Freq:2
+Avaliacao{recall=0.5720720720720721, precision=0.3825301204819277, f_measure=0.45848375451263534}
+Léxico: SentiLex_Flex	p-support: 0.1	Freq:4
+Avaliacao{recall=0.509009009009009, precision=0.3754152823920266, f_measure=0.4321223709369025}
+Léxico: SentiLex_Flex	p-support: 0.1	Freq:6
+Avaliacao{recall=0.509009009009009, precision=0.386986301369863, f_measure=0.4396887159533074}
+Léxico: SentiLex_Flex	p-support: 0.1	Freq:8
+Avaliacao{recall=0.5045045045045045, precision=0.3916083916083916, f_measure=0.4409448818897637}
+Léxico: SentiLex_Flex	p-support: 0.1	Freq:10
+Avaliacao{recall=0.5, precision=0.3894736842105263, f_measure=0.4378698224852071}
+Léxico: SentiLex_Flex	p-support: 0.30000000000000004	Freq:2
+Avaliacao{recall=0.5720720720720721, precision=0.38368580060422963, f_measure=0.45931283905967457}
+Léxico: SentiLex_Flex	p-support: 0.30000000000000004	Freq:4
+Avaliacao{recall=0.509009009009009, precision=0.37666666666666665, f_measure=0.4329501915708812}
+Léxico: SentiLex_Flex	p-support: 0.30000000000000004	Freq:6
+Avaliacao{recall=0.509009009009009, precision=0.38831615120274915, f_measure=0.4405458089668616}
+Léxico: SentiLex_Flex	p-support: 0.30000000000000004	Freq:8
+Avaliacao{recall=0.5045045045045045, precision=0.3929824561403509, f_measure=0.4418145956607495}
+Léxico: SentiLex_Flex	p-support: 0.30000000000000004	Freq:10
+Avaliacao{recall=0.5, precision=0.3908450704225352, f_measure=0.4387351778656126}
+Léxico: SentiLex_Flex	p-support: 0.5	Freq:2
+Avaliacao{recall=0.5720720720720721, precision=0.3860182370820669, f_measure=0.46098003629764067}
+Léxico: SentiLex_Flex	p-support: 0.5	Freq:4
+Avaliacao{recall=0.509009009009009, precision=0.37919463087248323, f_measure=0.4346153846153846}
+Léxico: SentiLex_Flex	p-support: 0.5	Freq:6
+Avaliacao{recall=0.509009009009009, precision=0.39100346020761245, f_measure=0.4422700587084149}
+Léxico: SentiLex_Flex	p-support: 0.5	Freq:8
+Avaliacao{recall=0.5045045045045045, precision=0.3957597173144876, f_measure=0.44356435643564357}
+Léxico: SentiLex_Flex	p-support: 0.5	Freq:10
+Avaliacao{recall=0.5, precision=0.39361702127659576, f_measure=0.4404761904761905}
+Léxico: SentiLex_Flex	p-support: 0.7	Freq:2
+Avaliacao{recall=0.5630630630630631, precision=0.3894080996884735, f_measure=0.4604051565377532}
+Léxico: SentiLex_Flex	p-support: 0.7	Freq:4
+Avaliacao{recall=0.5, precision=0.38275862068965516, f_measure=0.43359375}
+Léxico: SentiLex_Flex	p-support: 0.7	Freq:6
+Avaliacao{recall=0.5, precision=0.39501779359430605, f_measure=0.4413518886679921}
+Léxico: SentiLex_Flex	p-support: 0.7	Freq:8
+Avaliacao{recall=0.49099099099099097, precision=0.3978102189781022, f_measure=0.43951612903225806}
+Léxico: SentiLex_Flex	p-support: 0.7	Freq:10
+Avaliacao{recall=0.4864864864864865, precision=0.3956043956043956, f_measure=0.43636363636363634}
+Léxico: SentiLex_Flex	p-support: 0.8999999999999999	Freq:2
+Avaliacao{recall=0.527027027027027, precision=0.3786407766990291, f_measure=0.44067796610169485}
+Léxico: SentiLex_Flex	p-support: 0.8999999999999999	Freq:4
+Avaliacao{recall=0.46396396396396394, precision=0.37050359712230213, f_measure=0.412}
+Léxico: SentiLex_Flex	p-support: 0.8999999999999999	Freq:6
+Avaliacao{recall=0.46396396396396394, precision=0.3828996282527881, f_measure=0.4195519348268839}
+Léxico: SentiLex_Flex	p-support: 0.8999999999999999	Freq:8
+Avaliacao{recall=0.45495495495495497, precision=0.38549618320610685, f_measure=0.41735537190082644}
+Léxico: SentiLex_Flex	p-support: 0.8999999999999999	Freq:10
+Avaliacao{recall=0.45045045045045046, precision=0.3831417624521073, f_measure=0.4140786749482402}
+Léxico: SentiLex_Lem	p-support: 0.1	Freq:2
+Avaliacao{recall=0.5720720720720721, precision=0.3860182370820669, f_measure=0.46098003629764067}
+Léxico: SentiLex_Lem	p-support: 0.1	Freq:4
+Avaliacao{recall=0.509009009009009, precision=0.37919463087248323, f_measure=0.4346153846153846}
+Léxico: SentiLex_Lem	p-support: 0.1	Freq:6
+Avaliacao{recall=0.509009009009009, precision=0.39100346020761245, f_measure=0.4422700587084149}
+Léxico: SentiLex_Lem	p-support: 0.1	Freq:8
+Avaliacao{recall=0.5045045045045045, precision=0.3957597173144876, f_measure=0.44356435643564357}
+Léxico: SentiLex_Lem	p-support: 0.1	Freq:10
+Avaliacao{recall=0.5, precision=0.39361702127659576, f_measure=0.4404761904761905}
+Léxico: SentiLex_Lem	p-support: 0.30000000000000004	Freq:2
+Avaliacao{recall=0.5720720720720721, precision=0.3871951219512195, f_measure=0.4618181818181818}
+Léxico: SentiLex_Lem	p-support: 0.30000000000000004	Freq:4
+Avaliacao{recall=0.509009009009009, precision=0.38047138047138046, f_measure=0.4354527938342967}
+Léxico: SentiLex_Lem	p-support: 0.30000000000000004	Freq:6
+Avaliacao{recall=0.509009009009009, precision=0.3923611111111111, f_measure=0.4431372549019608}
+Léxico: SentiLex_Lem	p-support: 0.30000000000000004	Freq:8
+Avaliacao{recall=0.5045045045045045, precision=0.3971631205673759, f_measure=0.4444444444444444}
+Léxico: SentiLex_Lem	p-support: 0.30000000000000004	Freq:10
+Avaliacao{recall=0.5, precision=0.39501779359430605, f_measure=0.4413518886679921}
+Léxico: SentiLex_Lem	p-support: 0.5	Freq:2
+Avaliacao{recall=0.5720720720720721, precision=0.3895705521472393, f_measure=0.4635036496350365}
+Léxico: SentiLex_Lem	p-support: 0.5	Freq:4
+Avaliacao{recall=0.509009009009009, precision=0.38305084745762713, f_measure=0.437137330754352}
+Léxico: SentiLex_Lem	p-support: 0.5	Freq:6
+Avaliacao{recall=0.509009009009009, precision=0.3951048951048951, f_measure=0.44488188976377957}
+Léxico: SentiLex_Lem	p-support: 0.5	Freq:8
+Avaliacao{recall=0.5045045045045045, precision=0.4, f_measure=0.44621513944223107}
+Léxico: SentiLex_Lem	p-support: 0.5	Freq:10
+Avaliacao{recall=0.5, precision=0.3978494623655914, f_measure=0.4431137724550898}
+Léxico: SentiLex_Lem	p-support: 0.7	Freq:2
+Avaliacao{recall=0.5630630630630631, precision=0.39184952978056425, f_measure=0.4621072088724585}
+Léxico: SentiLex_Lem	p-support: 0.7	Freq:4
+Avaliacao{recall=0.5, precision=0.3854166666666667, f_measure=0.43529411764705883}
+Léxico: SentiLex_Lem	p-support: 0.7	Freq:6
+Avaliacao{recall=0.5, precision=0.3978494623655914, f_measure=0.4431137724550898}
+Léxico: SentiLex_Lem	p-support: 0.7	Freq:8
+Avaliacao{recall=0.49099099099099097, precision=0.4007352941176471, f_measure=0.44129554655870445}
+Léxico: SentiLex_Lem	p-support: 0.7	Freq:10
+Avaliacao{recall=0.4864864864864865, precision=0.3985239852398524, f_measure=0.43813387423935085}
+Léxico: SentiLex_Lem	p-support: 0.8999999999999999	Freq:2
+Avaliacao{recall=0.527027027027027, precision=0.3811074918566775, f_measure=0.44234404536862004}
+Léxico: SentiLex_Lem	p-support: 0.8999999999999999	Freq:4
+Avaliacao{recall=0.46396396396396394, precision=0.37318840579710144, f_measure=0.41365461847389556}
+Léxico: SentiLex_Lem	p-support: 0.8999999999999999	Freq:6
+Avaliacao{recall=0.46396396396396394, precision=0.3857677902621723, f_measure=0.4212678936605317}
+Léxico: SentiLex_Lem	p-support: 0.8999999999999999	Freq:8
+Avaliacao{recall=0.45495495495495497, precision=0.38846153846153847, f_measure=0.4190871369294606}
+Léxico: SentiLex_Lem	p-support: 0.8999999999999999	Freq:10
+Avaliacao{recall=0.45045045045045046, precision=0.3861003861003861, f_measure=0.4158004158004158}
